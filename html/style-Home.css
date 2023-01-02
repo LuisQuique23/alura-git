@@ -1,0 +1,47 @@
+body{
+    background-color: grey;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background-color: antiquewhite;
+}
+.tituloCentralizado{
+
+    
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    background-color: grey;
+    }
+
+em strong{
+color: red;
+
+}
+.difernciales{
+    background-color: white;
+    padding: 30px;
+}
+.tituloCentralizado{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+   width: 20%;
+    margin-right: 15%;
+}
+.imagenDiferenciales{
+    width: 50%;
+}
+.tiuloP{
+    padding-left: 30%;
+}
